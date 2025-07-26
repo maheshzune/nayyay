@@ -2,6 +2,10 @@
 
 The Lawyer Management System is a web-based platform designed to streamline the interaction between clients, lawyers, and administrators. It allows clients to search for lawyers, book appointments, manage case details, while providing lawyers and administrators with tools to manage their operations securely and efficiently.
 
+## 🔗 Live Demo
+  [Click here to view the live website](https://naya.free.nf/)
+
+
 ## Features
 
 - User-friendly interface for clients, lawyers, and admins
