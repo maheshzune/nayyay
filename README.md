@@ -63,7 +63,7 @@ nayyay-main/
   
    **Dhruvika Chitte**  
   GitHub: [@dhruika](https://github.com/dhruika)  
-  LinkedIn: [linkedin.com/in/Dhruvika-chitte-link](LinkedIn:www.linkedin.com/in/dhruvika-chitte-4b22a5330 )
+  LinkedIn: [linkedin.com/in/Dhruvika-chitte-link](https://www.linkedin.com/in/dhruvika-chitte-4b22a5330/ )
 
 
 
